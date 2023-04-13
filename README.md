@@ -1,7 +1,8 @@
 ```sh
 sudo apt update && apt upgrade -y
-mkdir zphisher && cd zphisher
+mkdir zphisher
 git clone https://github.com/muhammadasif141/zphisher.git
+cd zphisher
 chmod 777 *
 ./zphisher
 ```
