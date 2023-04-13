@@ -126,7 +126,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : ${__version__}
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (amd.hacker)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by amd (amd.hacker)${WHITE}
 	EOF
 }
 
